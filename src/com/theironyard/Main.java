@@ -24,6 +24,6 @@ public class Main {
         }
         stmt.execute("DROP TABLE players");
 
-        conn.close();initilin
+        conn.close();
     }
 }
